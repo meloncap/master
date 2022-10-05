@@ -1,12 +1,12 @@
 {
-  "name": "PancakeSwap SD",
+  "name": "SmartDefi",
   "timestamp": "2022-05-28T04:52:56.475Z",
   "version": {
     "major": 2,
     "minor": 16,
     "patch": 13
   },
-  "logoURI": "https://pancakeswap.finance/logo.png",
+  "logoURI": "https://new-mugen.vercel.app/favi.png",
   "keywords": [
     "pancakeswap",
     "smartdefi"

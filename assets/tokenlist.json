@@ -12,14 +12,14 @@
     "smartdefi"
   ],
   "tokens": [
-    {
-      "name": "Cardano Token",
-      "symbol": "ADA",
-      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
-    },
+//    {
+//      "name": "Cardano Token",
+//      "symbol": "ADA",
+//      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+//      "chainId": 56,
+//      "decimals": 18,
+//      "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+//    },
 {
       "name": "FEGToken",
       "symbol": "FEG",

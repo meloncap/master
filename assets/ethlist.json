@@ -1,4 +1,3 @@
-
 {
   "name": "MugenSwap ETH",
   "timestamp": "2022-05-28T04:52:56.475Z",
@@ -9,25 +8,25 @@
   },
   "logoURI": "https://new-mugen.vercel.app/favi.png",
   "keywords": [
-    "pancakeswap",
+    "uniswap",
     "mugenswap"
   ],
   "tokens": [
     {
-      "name": "Cardano Token",
-      "symbol": "ADA",
-      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-      "chainId": 56,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+      "logoURI": "https://etherscan.io/token/images/uniswap_32.png"
     },
 {
-      "name": "FEGToken",
-      "symbol": "FEG",
-      "address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://bscscan.com/token/images/fegtoken_32.png"
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/shibatoken_32.png"
     }
   ]
 }

@@ -21,11 +21,11 @@
       "logoURI": "https://cronoscan.com/token/images/mmfinance_32.png"
     },
 {
-      "name": "FEGToken",
-      "symbol": "FEG",
-      "address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
+      "name": "Crodex token",
+      "symbol": "CRX",
+      "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
       "chainId": 25,
-      "decimals": 9,
+      "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/fegtoken_32.png"
     }
   ]

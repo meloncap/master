@@ -16,7 +16,7 @@
       "name": "Cardano Token",
       "symbol": "ADA",
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-      "chainId": 56,
+      "chainId": 25,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
     },
@@ -24,7 +24,7 @@
       "name": "FEGToken",
       "symbol": "FEG",
       "address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
-      "chainId": 56,
+      "chainId": 25,
       "decimals": 9,
       "logoURI": "https://bscscan.com/token/images/fegtoken_32.png"
     }

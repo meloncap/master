@@ -13,12 +13,12 @@
   ],
   "tokens": [
     {
-      "name": "Cardano Token",
-      "symbol": "ADA",
-      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "name": "Mad meerkat finance",
+      "symbol": "MMF",
+      "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
       "chainId": 25,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+      "logoURI": "https://cronoscan.com/token/images/mmfinance_32.png"
     },
 {
       "name": "FEGToken",
